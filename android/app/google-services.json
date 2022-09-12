@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "638828428825",
+    "project_id": "cafeapp-b0de4",
+    "storage_bucket": "cafeapp-b0de4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638828428825:android:2f3985985e818a22f43488",
+        "android_client_info": {
+          "package_name": "com.example.chad_cafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638828428825-77lv1m1u6p0qn84kadakvq1ib23lprk4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA08ZUtr3FRT8aQsXkSmUNJJNjbx0TnDxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638828428825-77lv1m1u6p0qn84kadakvq1ib23lprk4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
